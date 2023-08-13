@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/giffy/static/css/main.9bfdfe31.css",
+    "main.js": "/giffy/static/js/main.0176e5b3.js",
+    "static/js/87.7952756e.chunk.js": "/giffy/static/js/87.7952756e.chunk.js",
+    "static/js/132.535cd70d.chunk.js": "/giffy/static/js/132.535cd70d.chunk.js",
+    "static/js/787.644f7641.chunk.js": "/giffy/static/js/787.644f7641.chunk.js",
+    "static/css/196.af498115.chunk.css": "/giffy/static/css/196.af498115.chunk.css",
+    "static/js/196.d4acc969.chunk.js": "/giffy/static/js/196.d4acc969.chunk.js",
+    "index.html": "/giffy/index.html",
+    "main.9bfdfe31.css.map": "/giffy/static/css/main.9bfdfe31.css.map",
+    "main.0176e5b3.js.map": "/giffy/static/js/main.0176e5b3.js.map",
+    "87.7952756e.chunk.js.map": "/giffy/static/js/87.7952756e.chunk.js.map",
+    "132.535cd70d.chunk.js.map": "/giffy/static/js/132.535cd70d.chunk.js.map",
+    "787.644f7641.chunk.js.map": "/giffy/static/js/787.644f7641.chunk.js.map",
+    "196.af498115.chunk.css.map": "/giffy/static/css/196.af498115.chunk.css.map",
+    "196.d4acc969.chunk.js.map": "/giffy/static/js/196.d4acc969.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bfdfe31.css",
+    "static/js/main.0176e5b3.js"
+  ]
+}
